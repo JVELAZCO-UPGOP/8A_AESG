@@ -10,7 +10,7 @@ const btneliminar = document.getElementById('btn-eliminar2');
 const lbtitulo = document.getElementById('exampleModalCenterTitle');
 const btnCerrar = document.getElementById('btn-cerrar1');
 
-const url= "http://localhost:5000/duenos";
+const url= "https://veterinaria-backend-two.vercel.app/duenos";
 
 let duenos = [];
 
