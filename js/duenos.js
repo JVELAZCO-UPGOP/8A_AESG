@@ -12,17 +12,17 @@ const btnCerrar = document.getElementById('btn-cerrar1');
 
 let duenos = [
     {
-        nombre: "Noraly",
-        apellido: "Niño",
+        nombre: "Ian",
+        apellido: "Sanchez",
         pais: "México",
-        identificacion: "1235"
+        identificacion: "2211"
     },
 
     {
-        nombre: "Luis",
-        apellido: "Coronado",
+        nombre: "Angel",
+        apellido: "Sanchez",
         pais: "México",
-        identificacion: "1893"
+        identificacion: "1511"
     }
 
 ];
